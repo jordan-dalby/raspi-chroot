@@ -1,5 +1,6 @@
 #!/bin/bash
 # credit for this file goes to https://forums.raspberrypi.com/viewtopic.php?p=2239835#p2239835
+# re-run this script to re-log into the img
 if [ `id -u` -ne 0 ]
   then echo Please run this script as root or using sudo!
   exit
