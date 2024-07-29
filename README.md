@@ -1,2 +1,2 @@
 # raspi-qemu
-Raspberry Pi Qemu Scripts
+Raspberry Pi Chroot Scripts
